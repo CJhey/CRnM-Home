@@ -1,3 +1,7 @@
+# Welcome to the main hub for the Critical Reader of "New" Media course
+
+This page serves as a link to the course materials, nextbook, self-assessment materials and other materials.
+
 <!---
 ---
 layout: default
