@@ -7,6 +7,12 @@ This page serves as a link to the course materials, nextbook, self-assessment ma
 In order to access the nextbook, follow the link: <a href="https://cjhey.github.io/CRnM/A%20Critical%20Reader%20of%20_New_%20Media.html">A Critical Reader of "New" Media</a>.
 The nextbook acts as a companion of the course as well as an independent study resource. Remember to read the instructions before using it.
 
+## Course Materials
+
+## Self-Assessment Materials
+
+## Other materials
+
 <!---
 ---
 layout: default
