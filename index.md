@@ -9,9 +9,15 @@ The nextbook acts as a companion of the course as well as an independent study r
 
 ## Course Materials
 
+The course materials can be accessed here. These are materials used during class (presentations and such) that can help you if you also use the other resources.
+
 ## Self-Assessment Materials
 
+Self-Assessment Materials are available on our Moodle website. You can also access these _offline_ materials for practice.
+
 ## Other materials
+
+Other useful material can be found here.
 
 <!---
 ---
