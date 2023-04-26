@@ -1,23 +1,25 @@
-# Welcome to the main hub for the Critical Reader of "New" Media course
+# Welcome to the main hub for the New Media and Technosemiosis modules@UPOL
 
-This page serves as a link to the course materials, nextbook, self-assessment materials and other materials.
+This page serves as an index to the Critical Reader of "New" Media course materials, including its nextbook, self-assessment materials and other materials, and for the Technosemiotics project run by <a href="">Auli Viidalepp</a>.
 
-## Nextbook
+## A Critical Reader of "New" Media Nextbook
 
 In order to access the nextbook, follow the link: <a href="https://cjhey.github.io/CRnM/A%20Critical%20Reader%20of%20_New_%20Media.html">A Critical Reader of "New" Media</a>.
 The nextbook acts as a companion of the course as well as an independent study resource. Remember to read the instructions before using it.
 
-## Course Materials
+## A Critical Reader of "New" Media Course Materials
 
 The course materials can be accessed here. These are materials used during class (presentations and such) that can help you if you also use the other resources.
 
-## Self-Assessment Materials
+## ACro"N"M Self-Assessment Materials
 
 Self-Assessment Materials are available on our Moodle website. You can also access these _offline_ materials for practice.
 
-## Other materials
+## ACro"N"M Other materials
 
 Other useful material can be found here.
+
+## Technosemiotics Nextbook
 
 <!---
 ---
