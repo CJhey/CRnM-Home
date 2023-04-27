@@ -1,6 +1,6 @@
 # Welcome to the main hub for the New Media and Technosemiosis modules@UPOL
 
-This page serves as an index to the Critical Reader of "New" Media course materials, including its nextbook, self-assessment materials and other materials, and for the Technosemiotics project run by <a href="">Auli Viidalepp</a>.
+This page serves as an index to the Critical Reader of "New" Media course materials, including its nextbook, self-assessment materials and other materials, and for the Technosemiotics project run by <a href="https://auli.viidalepp.org/">Auli Viidalepp</a>.
 
 ## A Critical Reader of "New" Media Nextbook
 
@@ -21,7 +21,7 @@ Other useful material can be found here.
 
 ## Technosemiotics Nextbook
 
-You can find the Technosemiotics Nextbook here.
+You can access the Technosemiotics Nextbook on <a href="https://technosemiotics.net/">this link</a>. This Nextbook is maintained by Auli Viidalepp.
 
 ### Disclaimer
 
