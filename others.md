@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Welcome to another page
+## Other materials
 
-_yay_
+Here you can find other materials that can help you make sense of the class. Included here are papers and links to articles and videos for you to access.
 
 [back](./)

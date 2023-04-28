@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Welcome to another page
+## Study materials from the class
 
-_yay_
+This is a repository of class materials used during lectures. These are the slides for each class.
 
 [back](./)
