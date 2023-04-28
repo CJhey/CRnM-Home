@@ -9,15 +9,15 @@ The nextbook acts as a companion of the course as well as an independent study r
 
 ## A Critical Reader of "New" Media Course Materials
 
-The course materials can be [accessed here](/crnm-home/materials). TEST2. These are materials used during class (presentations and such) that can help you if you also use the other resources.
+The course materials can be [accessed here](/crnm-home/materials). These are materials used during class (presentations and such) that can help you if you also use the other resources.
 
 ## ACro"N"M Self-Assessment Materials
 
-Self-Assessment Materials are available on our Moodle website. You can also access these _offline_ materials for practice.
+Self-Assessment Materials are available on our Moodle website. You can also access these [_offline_ materials](/crnm-home/selfam) for practice.
 
 ## ACro"N"M Other materials
 
-Other useful material can be found here.
+Other useful material [can be found here](/crnm-home/others).
 
 ## Technosemiotics Nextbook
 
