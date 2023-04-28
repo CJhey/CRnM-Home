@@ -9,7 +9,7 @@ The nextbook acts as a companion of the course as well as an independent study r
 
 ## A Critical Reader of "New" Media Course Materials
 
-The course materials can be [accessed here]({% materials %}). These are materials used during class (presentations and such) that can help you if you also use the other resources.
+The course materials can be [accessed here](/materials.md). These are materials used during class (presentations and such) that can help you if you also use the other resources.
 
 ## ACro"N"M Self-Assessment Materials
 
