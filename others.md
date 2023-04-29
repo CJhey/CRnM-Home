@@ -38,7 +38,7 @@ Duchamp and readymades
 
 [Juri Lotman - On the Semiosphere](https://ojs.utlib.ee/index.php/sss/article/view/SSS.2005.33.1.09)
 
-[Sing-Nan Fen - Marshall McLuhan's Understanding Media] (https://www.jstor.org/stable/23767954) * Requires access
+[Sing-Nan Fen - Marshall McLuhan's Understanding Media](https://www.jstor.org/stable/23767954) * Requires access
 
 [Tzvetan Todorov - Structural Analysis of Narrative](https://www.jstor.org/stable/1345003) * Requires access
 
