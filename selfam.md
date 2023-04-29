@@ -14,6 +14,8 @@ Here you can find self-assessment materials for our class. These are generated o
 
 [Self-Assessment 04](/crnm-home/assets/pdfs/self-assessment 04.pdf)
 
+[Self-Assessment 05](/crnm-home/assets/pdfs/self-assessment 05.pdf)
+
 
 You can find the corrections for these self-assessment quizzes on the [materials](/crnm-home/materials) page.
 
