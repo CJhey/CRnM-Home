@@ -1,6 +1,6 @@
 # Welcome to the main hub for the New Media and Technosemiotics modules@UPOL
 
-This page serves as an index to the **Critical Reader of "New" Media** course materials, including its nextbook, self-assessment materials and other materials, run by <a href="https://www.researchgate.net/profile/Claudio-Rodriguez-Higuera">me</a> and for the **Technosemiotics** project run by <a href="https://auli.viidalepp.org/">Auli Viidalepp</a>.
+This page serves as an index to the **Critical Reader of "New" Media** course materials, including its nextbook, self-assessment materials and other materials, run by <a href="https://www.researchgate.net/profile/Claudio-Rodriguez-Higuera">me</a> and for the **Technosemiotics** project run by <a href="https://auli.viidalepp.org/">Auli Viidalepp</a>, including a Nextbook and the page for the Winter School on AI and Society held in January 16-19 2023.
 
 ## A Critical Reader of "New" Media Nextbook
 
@@ -21,7 +21,11 @@ Other useful material [can be found here](/crnm-home/others).
 
 ## Technosemiotics Nextbook
 
-You can access the Technosemiotics Nextbook on <a href="https://technosemiotics.net/">this link</a>. This Nextbook is maintained by Auli Viidalepp.
+You can access the Technosemiotics Nextbook on <a href="https://nextbook.technosemiotics.eu/ ">this link</a>. This Nextbook is maintained by Auli Viidalepp.
+
+## Technosemiotics Winter School website
+
+<a href="http://winterschool2023.technosemiotics.eu/">Here</a> you can find the Technosemiotics Winter School website, including information on the workshop, presentations given and general information. This is also mantained by Auli Viidalepp.
 
 ### [Page information](/crnm-home/infopage)
 
