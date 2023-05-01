@@ -53,3 +53,31 @@
        url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.ttf') format('truetype'),
        url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.svg#NotoSans') format('svg');
 }
+
+@font-face {
+  font-family: 'Foldit';
+  font-weight: 400;
+  font-style: normal;
+  src: url('../fonts/Foldit/Foldit-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Foldit';
+  font-weight: 700;
+  font-style: normal;
+  src: url('../fonts/Foldit/Foldit-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Foldit';
+  font-weight: 400;
+  font-style: italic;
+  src: url('../fonts/Foldit/Foldit-Italic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Foldit';
+  font-weight: 700;
+  font-style: italic;
+  src: url('../fonts/Foldit/Foldit-BoldItalic.ttf') format('truetype');
+}
