@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>ChatGPT Test</title>
+</head>
+<body>
+  <form id="chat-form">
+    <label for="message-input">Message:</label>
+    <input type="text" id="message-input">
+    <button type="submit">Send</button>
+  </form>
+  <div id="chat-output"></div>
+</body>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+$(function() {
+  var apiKey = '<%= ENV["CGAPIKEY"] %>';
+
+  $('#chat-form').submit(function(event) {
+    event.preventDefault();
+
+    var message = $('#message-input').val();
+
+    $.ajax({
+      type: 'POST',
+      url: 'https://api.openai.com/v1/engines/davinci-codex/completions',
+      headers: {
+        'Authorization': 'Bearer ' + apiKey,
+        'Content-Type': 'application/json'
+      },
+      data: JSON.stringify({
+        'prompt': message,
+        'max_tokens': 50
+      }),
+      success: function(response) {
+        var text = response.choices[0].text;
+        $('#chat-output').html(text);
+      }
+    });
+  });
+});
+</script>
+
+</html>
