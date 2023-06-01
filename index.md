@@ -19,6 +19,10 @@ Self-Assessment Materials are available on our Moodle website. You can also acce
 
 Other useful material [can be found here](/crnm-home/others).
 
+## Tester
+
+Check the [tester](/crnm-home/evaluator).
+
 ## Technosemiotics Nextbook
 
 You can access the Technosemiotics Nextbook on <a href="https://nextbook.technosemiotics.eu/ ">this link</a>. This Nextbook is maintained by Auli Viidalepp.
