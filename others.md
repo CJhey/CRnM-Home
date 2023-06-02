@@ -2,9 +2,9 @@
 layout: default
 ---
 
-## Other materials
+## Navigating through the world of media
 
-Here you can find other materials that can help you make sense of the class. Included here are papers and links to articles and videos for you to access.
+The world of media is exhilarating, and yet it is often so close to our faces that we don't have a chance to look at it critically.
 
 ### External reference links
 

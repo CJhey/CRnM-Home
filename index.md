@@ -15,9 +15,9 @@ The course materials can be [accessed here](/crnm-home/materials). These are mat
 
 Self-Assessment Materials are available on our Moodle website. You can also access these [_offline_ materials](/crnm-home/selfam) for practice.
 
-## ACro"N"M Other materials
+## Navigating through the world of media
 
-Other useful material [can be found here](/crnm-home/others).
+A guide on navigating the world of media theory [can be found here](/crnm-home/others).
 
 ## Semiosphere distance toy
 
