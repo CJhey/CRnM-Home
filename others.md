@@ -9,7 +9,7 @@ The world of media is exhilarating, and yet it is often so close to our faces th
 
 ## Cultural analysis as a philosophical practice
 
-The beginnings of cultural analysis as an academic practice are directly tied to important changes to the western world. The air of war and the advent of newer economic ideas 
+The beginnings of cultural analysis as an academic practice are directly tied to important changes to the western world. The air of war and the advent of newer economic ideas, among other factors, brought a renewed look at how culture is _done, and how culture _should_be_studied.
 
 
 ### External reference links
