@@ -19,9 +19,9 @@ Self-Assessment Materials are available on our Moodle website. You can also acce
 
 Other useful material [can be found here](/crnm-home/others).
 
-## Tester
+## Semiosphere distance toy
 
-Check the [tester](/crnm-home/evaluator).
+Check the [Semiosphere distance toy](/crnm-home/evaluator). This is a simple script to determine the distance of a given cultural object from the cultural canon of a semiosphere. It's only a guesstimator, so take it at face value!
 
 ## Technosemiotics Nextbook
 
