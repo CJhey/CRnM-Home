@@ -9,12 +9,13 @@ The world of media is exhilarating, and yet it is often so close to our faces th
 
 ## Cultural analysis as a philosophical practice
 
-The beginnings of cultural analysis as an academic practice are directly tied to important changes to the western world. The air of war and the advent of newer economic ideas, among other factors, brought a renewed look at how culture is _done, and how culture _should_be_studied.
+The beginnings of cultural analysis as an academic practice are directly tied to important changes to the western world. The air of war and the advent of newer economic ideas, among other factors, brought a renewed look at how culture is <i>done</i>, and how culture <i>should be studied and understood</i>.
+One of the figures we studied was [Walter Benjamin (Wiki)](https://en.wikipedia.org/wiki/Walter_Benjamin), an essential figure in the beginning of the modern study of culture. Benjamin's life and work, brief and vast each, 
+
 
 
 ### External reference links
 
-[Walter Benjamin's Wikipedia page](https://en.wikipedia.org/wiki/Walter_Benjamin)
 
 [Marshall McLuhan's Wikipedia page](https://en.wikipedia.org/wiki/Marshall_McLuhan)
 
