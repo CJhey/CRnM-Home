@@ -2,9 +2,14 @@
 layout: default
 ---
 
-## Navigating through the world of media
+# Navigating through the world of media
 
 The world of media is exhilarating, and yet it is often so close to our faces that we don't have a chance to look at it critically. That's what this guide will try to cover in general lines, adding to what we built on our [nextbook](https://cjhey.github.io/CRnM/A%20Critical%20Reader%20of%20_New_%20Media.html).
+
+
+## Cultural analysis as a philosophical practice
+
+The beginnings of cultural analysis as an academic practice are directly tied to important changes to the western world. The air of war and the advent of newer economic ideas 
 
 
 ### External reference links

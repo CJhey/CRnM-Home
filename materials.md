@@ -2,11 +2,11 @@
 layout: default
 ---
 
-## Study materials from the class
+# Study materials from the class
 
 This is a repository of class materials used during lectures. These are the slides for each class.
 
-### Slides from class
+## Slides from class
 
 [Slides from the first class](/crnm-home/assets/slides/01 introduction.pdf)
 

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Self-Assessment materials
+# Self-Assessment materials
 
 Here you can find self-assessment materials for our class. These are generated on the basis of our online self-assessment tool from <a href="https://moodle.upol.cz/">Moodle</a>. If you're registered to the course, you can take the self-assessment tests on there.
 

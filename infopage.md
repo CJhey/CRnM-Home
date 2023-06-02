@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Copyrights and funding
+# Copyrights and funding
 
 This page has been created by <a href="https://www.researchgate.net/profile/Claudio-Rodriguez-Higuera">Claudio Rodríguez</a> and built on the <a href="https://github.com/orderedlist/minimal">minimal</a> theme, hosted on <a href="http://github.com">GitHub</a>. The Nextbook for ACR"N"M has been built on <a href="https://twinery.org/">Twine</a> with <a href="https://www.motoslave.net/sugarcube/2/docs/">SugarCube2</a>.
 
