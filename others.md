@@ -17,6 +17,8 @@ Watch the following video:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FUwHr2AOQ5Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+Traditional ways of looking at art become obsolete due to the changing panorama of art itself. Where art becomes 
+
 
 ### External reference links
 
@@ -38,10 +40,7 @@ Watch the following video:
 Marshall McLuhan's The Medium Is the Message (1977)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1-HJxdTbaRM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-Jake and Dinos Chapman's work
 
-
-Tartu-Moscow Semiotic School
 
 [Juri Lotman - On the Semiosphere](https://ojs.utlib.ee/index.php/sss/article/view/SSS.2005.33.1.09)
 
