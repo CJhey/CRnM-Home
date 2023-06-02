@@ -13,6 +13,10 @@ The beginnings of cultural analysis as an academic practice are directly tied to
 One of the figures we studied was [Walter Benjamin (Wiki)](https://en.wikipedia.org/wiki/Walter_Benjamin), an essential figure in the beginning of the modern study of culture. Benjamin's life and work, brief and vast each, talks about culture in light of a changing economic landscape. In [The Work of Art in the Age of Mechanical Reproduction (full text)](https://web.mit.edu/allanmc/www/benjamin.pdf), Benjamin looks at how works of art, facing new modes of production, have seen their usage and position displaced.
 What does that mean exactly? Think of the difference between a religious image used in a church and the picture of a religious image in a modern art museum.
 
+Watch the following video:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ZlrHyzIwcI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### External reference links
 
 
@@ -34,10 +38,6 @@ Jake and Dinos Chapman's work
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FUwHr2AOQ5Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 Tartu-Moscow Semiotic School
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ZlrHyzIwcI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-Duchamp and readymades
-
 
 [Juri Lotman - On the Semiosphere](https://ojs.utlib.ee/index.php/sss/article/view/SSS.2005.33.1.09)
 
