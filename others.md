@@ -11,8 +11,7 @@ The world of media is exhilarating, and yet it is often so close to our faces th
 
 The beginnings of cultural analysis as an academic practice are directly tied to important changes to the western world. The air of war and the advent of newer economic ideas, among other factors, brought a renewed look at how culture is <i>done</i>, and how culture <i>should be studied and understood</i>.
 One of the figures we studied was [Walter Benjamin (Wiki)](https://en.wikipedia.org/wiki/Walter_Benjamin), an essential figure in the beginning of the modern study of culture. Benjamin's life and work, brief and vast each, talks about culture in light of a changing economic landscape. In [The Work of Art in the Age of Mechanical Reproduction (full text)](https://web.mit.edu/allanmc/www/benjamin.pdf), Benjamin looks at how works of art, facing new modes of production, have seen their usage and position displaced.
-
-
+What does that mean exactly? Think of the difference between a religious image used in a church and the picture of a religious image in a modern art museum.
 
 ### External reference links
 
@@ -39,9 +38,6 @@ Tartu-Moscow Semiotic School
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2ZlrHyzIwcI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 Duchamp and readymades
 
-### Links to articles
-
-[Walter Benjamin - The Work of Art in the Age of Mechanical Reproduction](https://web.mit.edu/allanmc/www/benjamin.pdf)
 
 [Juri Lotman - On the Semiosphere](https://ojs.utlib.ee/index.php/sss/article/view/SSS.2005.33.1.09)
 
