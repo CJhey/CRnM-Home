@@ -24,6 +24,7 @@ In what follows, we will explore a couple of those questions in the same vein we
 ## Culture, information and change
 
 We have two areas of questioning here. First, the broad question about the nature of culture. Second, the narrow question about how cultural objects are constructed. Let's take up the second topic first.
+Let's talk about the word <i>media</i>. Or rather, about the singular of media, <i>medium</i>.
 
 
 ### External reference links
