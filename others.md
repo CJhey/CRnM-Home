@@ -18,11 +18,12 @@ What does that mean exactly? Think of the difference between a religious image u
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2ZlrHyzIwcI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Traditional ways of looking at art become obsolete due to the changing panorama of art itself. Art, influenced by new technologies, but also new ideas, evolves with our own understanding of culture.
-This leads us to both broader questions about the nature of culture, and more narrow questions about 
+This leads us to both broader questions about the nature of culture, and more narrow questions about the construction of cultural objects.
+In what follows, we will explore a couple of those questions in the same vein we explored them in our class.
 
 ## Culture, information and change
 
-How do we understand the things that we see in culture?
+We have two areas of questioning here. First, the broad question about the nature of culture. Second, the narrow question about how cultural objects are constructed. Let's take up the second topic first.
 
 
 ### External reference links
