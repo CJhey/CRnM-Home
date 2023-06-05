@@ -8,28 +8,28 @@ This is a repository of class materials used during lectures. These are the slid
 
 ## Slides from class
 
-[Slides from the first class](/crnm-home/assets/slides/01 introduction.pdf)[[No watermark ver.](/crnm-home/assets/slides/no_disclaimer/01 introduction.pdf)]
+[Slides from the first class](/crnm-home/assets/slides/01 introduction.pdf) [[No watermark ver.](/crnm-home/assets/slides/no_disclaimer/01 introduction.pdf)]
 
-[Slides from the second class](/crnm-home/assets/slides/02 media culture.pdf)[[No watermark ver.](/crnm-home/assets/slides/no_disclaimer/02 media culture.pdf)]
+[Slides from the second class](/crnm-home/assets/slides/02 media culture.pdf) [[No watermark ver.](/crnm-home/assets/slides/no_disclaimer/02 media culture.pdf)]
 
-[Slides from the third class](/crnm-home/assets/slides/02-02. media culture - interlude.pdf)[[No watermark ver.](/crnm-home/assets/slides/no_disclaimer/02-02. media culture - interlude.pdf)]
+[Slides from the third class](/crnm-home/assets/slides/02-02. media culture - interlude.pdf) [[No watermark ver.](/crnm-home/assets/slides/no_disclaimer/02-02. media culture - interlude.pdf)]
 
 
-[Slides from the fourth class](/crnm-home/assets/slides/03. semiotics of culture.pdf)[[No watermark ver.](/crnm-home/assets/slides/no_disclaimer/03. semiotics of culture.pdf)]
+[Slides from the fourth class](/crnm-home/assets/slides/03. semiotics of culture.pdf) [[No watermark ver.](/crnm-home/assets/slides/no_disclaimer/03. semiotics of culture.pdf)]
 
 [Slides from the fifth class](/crnm-home/assets/slides/03-02. semiotics of culture continued.pdf)[[No watermark ver.](/crnm-home/assets/slides/no_disclaimer/03-02. semiotics of culture continued.pdf)]
 
-[Slides from the sixth class](/crnm-home/assets/slides/04. narrativity.pdf)[[No watermark ver.](/crnm-home/assets/slides/no_disclaimer/04. narrativity.pdf)]
+[Slides from the sixth class](/crnm-home/assets/slides/04. narrativity.pdf) [[No watermark ver.](/crnm-home/assets/slides/no_disclaimer/04. narrativity.pdf)]
 
-[Slides from the seventh class](/crnm-home/assets/slides/04-02. Perception.pdf)[[No watermark ver.](/crnm-home/assets/slides/no_disclaimer/04-02. Perception.pdf)]
+[Slides from the seventh class](/crnm-home/assets/slides/04-02. Perception.pdf) [[No watermark ver.](/crnm-home/assets/slides/no_disclaimer/04-02. Perception.pdf)]
 
-[Slides from the eighth class](/crnm-home/assets/slides/05. Interaction.pdf)[[No watermark ver.](/crnm-home/assets/slides/no_disclaimer/05. Interaction.pdf)]
+[Slides from the eighth class](/crnm-home/assets/slides/05. Interaction.pdf) [[No watermark ver.](/crnm-home/assets/slides/no_disclaimer/05. Interaction.pdf)]
 
-[Slides from the ninth class](/crnm-home/assets/slides/06. problem of interaction.pdf)[[No watermark ver.](/crnm-home/assets/slides/no_disclaimer/06. problem of interaction.pdf)]
+[Slides from the ninth class](/crnm-home/assets/slides/06. problem of interaction.pdf) [[No watermark ver.](/crnm-home/assets/slides/no_disclaimer/06. problem of interaction.pdf)]
 
-[Slides from the tenth class](/crnm-home/assets/slides/07. gamer wittgenstein.pdf)[[No watermark ver.](/crnm-home/assets/slides/no_disclaimer/07. gamer wittgenstein.pdf)]
+[Slides from the tenth class](/crnm-home/assets/slides/07. gamer wittgenstein.pdf) [[No watermark ver.](/crnm-home/assets/slides/no_disclaimer/07. gamer wittgenstein.pdf)]
 
-[Slides from the eleventh class](/crnm-home/assets/slides/08. context and content.pdf)[[No watermark ver.](/crnm-home/assets/slides/no_disclaimer/08. context and content.pdf)]
+[Slides from the eleventh class](/crnm-home/assets/slides/08. context and content.pdf) [[No watermark ver.](/crnm-home/assets/slides/no_disclaimer/08. context and content.pdf)]
 
 
 
