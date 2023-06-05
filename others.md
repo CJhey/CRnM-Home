@@ -24,7 +24,7 @@ In what follows, we will explore a couple of those questions in the same vein we
 ## Culture, information and change
 
 We have two areas of questioning here. First, the broad question about the nature of culture. Second, the narrow question about how cultural objects are constructed. Let's take up the second topic first.
-Let's talk about the word <i>media</i>. Or rather, about the singular of media, <i>medium</i>. Backtracking our usage of the language we commonly assign to the way we obtain cultural objects allows us to think more specifically about what it means for something to be a cultural object by itself, and what a medium might be.
+Let's talk about the word <i>media</i>. Or rather, about the singular of media, <i>medium</i>. Backtracking our usage of the language we commonly assign to the way we obtain cultural objects allows us to think more specifically about what it means for something to be a cultural object by itself, and what a medium might be. There are multiple ways to understand the concept, and it seems common nowadays to talk about media as a <i>thing we consume</i> in a metaphorical sense, such as movies or videogames.
 
 
 ### External reference links
