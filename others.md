@@ -27,6 +27,9 @@ We have two areas of questioning here. First, the broad question about the natur
 Let's talk about the word <i>media</i>. Or rather, about the singular of media, <i>medium</i>. Backtracking our usage of the language we commonly assign to the way we obtain cultural objects allows us to think more specifically about what it means for something to be a cultural object by itself, and what a medium might be. There are multiple ways to understand the concept, and it seems common nowadays to talk about media as a <i>thing we consume</i> in a metaphorical sense, such as movies or videogames.
 Theories of media, however, pay attention to more than just how we call the things that we consume for entertainment and communication! One important figure we studied in our class was [Marshall McLuhan (Wiki)](https://en.wikipedia.org/wiki/Marshall_McLuhan). In his [Understanding Media (comments and review on link, Jstor access requires)](https://www.jstor.org/stable/23767954) we observe media not simply as platforms where we access contents, but rather as new technologies that change how we interact with people and the world. McLuhan's dictum, ["the medium is the message"](https://marshallmcluhan.com/), is a good way to think of how a given medium works, particularly when that medium conveys some kind of information.
 
+McLuhan, both entertaining and interesting, explains his views here himself:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoCrx0scCkM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 
 
@@ -39,7 +42,7 @@ Theories of media, however, pay attention to more than just how we call the thin
 ### Videos referenced
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoCrx0scCkM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Marshall McLuhan's The Medium Is the Message (1977)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1-HJxdTbaRM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
