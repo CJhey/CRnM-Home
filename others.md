@@ -34,30 +34,28 @@ McLuhan, both entertaining and interesting, explains his views here himself:
 
 For instance, when you think of a novel you like, when you tell other people about it, you may usually start with the plot, but it's hard to convey the full experience of the novel by appealing solely to the story that takes place. The experience of reading a novel is more complex than reading what happens. And this is the same for every cultural object, it seems.
 
-
-
-### External reference links
+## The semiotics of culture
 
 [Juri Lotman's Wikipedia page](https://en.wikipedia.org/wiki/Juri_Lotman)
 
-[Algirdas Greimas's Wikipedia page](https://en.wikipedia.org/wiki/Algirdas_Julien_Greimas)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FUwHr2AOQ5Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### Videos referenced
+[Juri Lotman - On the Semiosphere](https://ojs.utlib.ee/index.php/sss/article/view/SSS.2005.33.1.09)
+
+## Semiotic analysis of texts
+
+[Algirdas Greimas's Wikipedia page](https://en.wikipedia.org/wiki/Algirdas_Julien_Greimas)
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1-HJxdTbaRM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FUwHr2AOQ5Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-[Juri Lotman - On the Semiosphere](https://ojs.utlib.ee/index.php/sss/article/view/SSS.2005.33.1.09)
+[Louis Hébert - The Semiotic Square](http://www.signosemio.com/greimas/semiotic-square.asp)
 
 
 [Tzvetan Todorov - Structural Analysis of Narrative](https://www.jstor.org/stable/1345003) * Requires access
 
 [Ruth Ronen - Are Fictional Worlds Possible?](https://www.degruyter.com/document/doi/10.3138/9781487578442-004/html?lang=de) * Requires access
 
-[Louis Hébert - The Semiotic Square](http://www.signosemio.com/greimas/semiotic-square.asp)
 
 
 [back](./)
