@@ -30,6 +30,9 @@ Theories of media, however, pay attention to more than just how we call the thin
 McLuhan, both entertaining and interesting, explains his views here himself:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UoCrx0scCkM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<i>The medium is the <s>massage</s> message</i> insofar as focusing solely on content does not give us the full story of what we are dealing with in the case of cultural objects. Form and content create a whole, a unity that brings us more information than simple statements about things.
+
+For instance, when you think of a novel you like, when you tell other people about it, you may usually start with the plot, but it's hard to convey the full experience of the novel by appealing solely to the story that takes place. The experience of reading a novel is more complex than reading what happens. And this is the same for every cultural object, it seems.
 
 
 
@@ -41,9 +44,6 @@ McLuhan, both entertaining and interesting, explains his views here himself:
 
 ### Videos referenced
 
-
-
-Marshall McLuhan's The Medium Is the Message (1977)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1-HJxdTbaRM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
