@@ -36,7 +36,7 @@ For instance, when you think of a novel you like, when you tell other people abo
 
 ## The semiotics of culture
 
-[Juri Lotman's Wikipedia page](https://en.wikipedia.org/wiki/Juri_Lotman)
+Another way to look at culture we studied took us to a different realm: The understanding of culture as a system of significations. We took the work of [Juri Lotman (Wiki)](https://en.wikipedia.org/wiki/Juri_Lotman) as a starting point for analyzing cultural dynamics and the development of study objects within the study of culture as a signification-building environment.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FUwHr2AOQ5Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
