@@ -38,6 +38,8 @@ For instance, when you think of a novel you like, when you tell other people abo
 
 Another way to look at culture we studied took us to a different realm: The understanding of culture as a system of significations. We took the work of [Juri Lotman (Wiki)](https://en.wikipedia.org/wiki/Juri_Lotman) as a starting point for analyzing cultural dynamics and the development of study objects within the study of culture as a signification-building environment.
 
+Lotman's work proposes a very interesting way to look at culture in terms of <i>texts</i>, following their composition, location and movement across the different areas of culture.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FUwHr2AOQ5Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [Juri Lotman - On the Semiosphere](https://ojs.utlib.ee/index.php/sss/article/view/SSS.2005.33.1.09)
