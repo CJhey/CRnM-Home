@@ -38,11 +38,17 @@ For instance, when you think of a novel you like, when you tell other people abo
 
 Another way to look at culture we studied took us to a different realm: The understanding of culture as a system of significations. We took the work of [Juri Lotman (Wiki)](https://en.wikipedia.org/wiki/Juri_Lotman) as a starting point for analyzing cultural dynamics and the development of study objects within the study of culture as a signification-building environment.
 
-Lotman's work proposes a very interesting way to look at culture in terms of <i>texts</i>, following their composition, location and movement across the different areas of culture.
+Lotman's work proposes a very interesting way to look at culture in terms of <i>texts</i>, following their composition, location and movement across the different areas of culture. In fact, his work is essential for understanding some of the things we want to understand!
+
+In [On the Semiosphere](https://ojs.utlib.ee/index.php/sss/article/view/SSS.2005.33.1.09), Lotman 
+guides us through his theory of how culture--and what is meaningful within it--is systematically 
+organized, with some specific delimitations that we can use to understand the dynamics of 
+signification. The semiosphere, you may recall, is roughly divided in a <i>center</i>, a <i>periphery</i>, a <i>boundary</i> and the extra-semiotic space beyond the organization of culture.
+The <b>center</b> is the least dynamic, most established area of culture, where we find the canonical expressions of language, behavior, the arts, and so on. The further away we get from the center, the more we enter the <b>periphery</b> a place where cultural expressions all start changing, becoming less and less like what lies at the center depending on how far away we are from it. Think of rural dialects, artistic expressions that border in vandalism, etc. What contains the semiosphere is its <b>boundary</b>.
+
+You can see Lotman talk more about culture in his own style here:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FUwHr2AOQ5Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-[Juri Lotman - On the Semiosphere](https://ojs.utlib.ee/index.php/sss/article/view/SSS.2005.33.1.09)
 
 ## Semiotic analysis of texts
 
