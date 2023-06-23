@@ -59,13 +59,10 @@ In other words, this part of the methodology allows us to look at different kind
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1-HJxdTbaRM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Looking at the work of art depicted here, what we have is, indeed, <i>a text</i>. It may seem like a strange text, but it is a text we can make sense of in a number of ways. We don't want to focus solely on what it means, we want to make sense of the text applying the notions we have already learned. We can think of how this text is located within a certain semiosphere. We can think of it in terms of medium. We can also try to make sense of the meanings in it and their relation to one another.
+For this, we want to jump to the work of [Algirdas Greimas (Wiki)](https://en.wikipedia.org/wiki/Algirdas_Julien_Greimas). Greimas, a Lithuanian semiotician who spent the majority of his career in France, developed a theoretical framework for understanding the coherence of meanings within a particular text. This we call a [Semiotic Square](http://www.signosemio.com/greimas/semiotic-square.asp). The idea of the semiotic square is, roughly, to find relations of significance between what appears in a text, what doesn't, and what is related to both what appears and what doesn't appear. We can look at individual elements in the text, relate them to their contradiction and absence, and analyze the specific meanings as they are built in our description. If we have <i>violence</i> as one of the concepts in our semantic field, we can look at <i>not-violence</i> as its contradiction; <i>kindness</i> as the contrary term to <i>violence</i>, and <i>not-kindness</i> as the contradiction to <i>kindness</i>. Having access to these two concepts (violence and kindness) allows us to look at their contradictions (not-) and implications (not-violence is an implication of kindness). We can see how these concepts play out in the text we just saw, finding whether there are instances of violence and kindness within the relations of the parts in the visual representation we saw. This gives us a syntactic/semantic paired description of the object that can uncover specific meanings and actual signifying relations in the text we are analyzing.
 
-For this, we want to jump to the work of [Algirdas Greimas (Wiki)](https://en.wikipedia.org/wiki/Algirdas_Julien_Greimas).
+## Narrativity and beyond
 
-
-
-
-[Louis Hébert - The Semiotic Square](http://www.signosemio.com/greimas/semiotic-square.asp)
 
 
 [Tzvetan Todorov - Structural Analysis of Narrative](https://www.jstor.org/stable/1345003) * Requires access
