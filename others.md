@@ -58,10 +58,9 @@ In other words, this part of the methodology allows us to look at different kind
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1-HJxdTbaRM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Looking at the work of art depicted here, what we have is, indeed, <i>a text</i>.
+Looking at the work of art depicted here, what we have is, indeed, <i>a text</i>. It may seem like a strange text, but it is a text we can make sense of in a number of ways. We don't want to focus solely on what it means, we want to make sense of the text applying the notions we have already learned. We can think of how this text is located within a certain semiosphere. We can think of it in terms of medium. We can also try to make sense of the meanings in it and their relation to one another.
 
-
-[Algirdas Greimas's Wikipedia page](https://en.wikipedia.org/wiki/Algirdas_Julien_Greimas)
+For this, we want to jump to the work of [Algirdas Greimas (Wiki)](https://en.wikipedia.org/wiki/Algirdas_Julien_Greimas).
 
 
 
