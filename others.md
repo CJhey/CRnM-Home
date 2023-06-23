@@ -66,10 +66,9 @@ For this, we want to jump to the work of [Algirdas Greimas (Wiki)](https://en.wi
 
 ## Narrativity and beyond
 
-There are many elements in the construction of texts that we covered. An important aspect was <i>narrativity</i>. In this quick guide/refresher, we've gone quickly through some of the main topics we covered during our class. However, partly inspired by Lotman's own treatment of cultural objects, we can pay attention to narrativity as a special feature of some cultural objects that can be analyzed more profoundly. One of the sources we used was [Tzvetan Todorov's Structural Analysis of Narrative (requires access)](https://www.jstor.org/stable/1345003).
+There are many elements in the construction of texts that we covered. An important aspect was <i>narrativity</i>. In this quick guide/refresher, we've gone quickly through some of the main topics we covered during our class. However, partly inspired by Lotman's own treatment of cultural objects, we can pay attention to narrativity as a special feature of some cultural objects that can be analyzed more profoundly. One of the sources we used was [Tzvetan Todorov's Structural Analysis of Narrative (requires access)](https://www.jstor.org/stable/1345003). Since we also focused on <i>internal coherence</i>, we asked philosophical questions about the nature of fiction and fictional entities. [Ruth Ronen's Are Fictional Worlds Possible? (requires access)](https://www.degruyter.com/document/doi/10.3138/9781487578442-004/html?lang=de) was an interesting text for us to read and test our philosophical assumptions about the contents of narrative media.
 
-[Ruth Ronen - Are Fictional Worlds Possible?](https://www.degruyter.com/document/doi/10.3138/9781487578442-004/html?lang=de) * Requires access
-
+Though there is so much to explore, this guide is a quick way to review what we saw throughout the semester, refresh the contents we explored and perhaps even ask new questions about the nature of media and its analysis, about what is necessary for us to actually present a useful analysis of media of all sorts.
 
 
 [back](./)
