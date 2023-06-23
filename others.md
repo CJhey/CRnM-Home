@@ -44,13 +44,16 @@ In [On the Semiosphere](https://ojs.utlib.ee/index.php/sss/article/view/SSS.2005
 guides us through his theory of how culture--and what is meaningful within it--is systematically
 organized, with some specific delimitations that we can use to understand the dynamics of
 signification. The semiosphere, you may recall, is roughly divided in a <i>center</i>, a <i>periphery</i>, a <i>boundary</i> and the extra-semiotic space beyond the organization of culture.
-The <b>center</b> is the least dynamic, most established area of culture, where we find the canonical expressions of language, behavior, the arts, and so on. The further away we get from the center, the more we enter the <b>periphery</b> a place where cultural expressions all start changing, becoming less and less like what lies at the center depending on how far away we are from it. Think of rural dialects, artistic expressions that border in vandalism, etc. What contains the semiosphere is its <b>boundary</b>. The boundary makes
+The <b>center</b> is the least dynamic, most established area of culture, where we find the canonical expressions of language, behavior, the arts, and so on. The further away we get from the center, the more we enter the <b>periphery</b> a place where cultural expressions all start changing, becoming less and less like what lies at the center depending on how far away we are from it. Think of rural dialects, artistic expressions that border in vandalism, etc. What contains the semiosphere is its <b>boundary</b>. The boundary also <i>translates</i> what lies beyond the semiosphere, such as other cultures or nature. It turns what lies outside into something comprehensible on the inside.
 
-You can see Lotman talk more about culture in his own style here:
-
+Lotman, as the pivotal figure in the so-called Tartu Moscow School of Semiotics, normally used literary texts as a way to exemplify his ideas on culture. You can see more information on the Tartu Moscow School of Semiotics here:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FUwHr2AOQ5Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Semiotic analysis of texts
+
+Another concept we have to keep in mind is that of a <i>text</i>, also in the vein of Lotmanian 
+semiotics. Texts are <i>units of analysis</i> that appear in our theories. We study texts as combinations of signs. Texts are a way to describe cultural objects in general. We don't need to think of texts as <i>written texts</i>, but rather, as a useful shorthand to describe signifying elements in culture. The thought process is: Things that have meaning, present that meaning through signs. Things that are meaningful are composed of multiple signs.
+
 
 [Algirdas Greimas's Wikipedia page](https://en.wikipedia.org/wiki/Algirdas_Julien_Greimas)
 

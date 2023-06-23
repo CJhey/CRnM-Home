@@ -300,3 +300,8 @@ p small {
   margin-top: -0.3em;
   display: block;
 }
+
+.scrollable-p {
+	overflow: auto;
+	height: 200px;
+	}
