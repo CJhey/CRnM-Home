@@ -67,10 +67,7 @@ For this, we want to jump to the work of [Algirdas Greimas (Wiki)](https://en.wi
 
 ## Narrativity and beyond
 
-There are many elements in the construction of texts that we covered. An important aspect was <i>narrativity</i>.
-
-
-[Tzvetan Todorov - Structural Analysis of Narrative](https://www.jstor.org/stable/1345003) * Requires access
+There are many elements in the construction of texts that we covered. An important aspect was <i>narrativity</i>. In this quick guide/refresher, we've gone quickly through some of the main topics we covered during our class. However, partly inspired by Lotman's own treatment of cultural objects, we can pay attention to narrativity as a special feature of some cultural objects that can be analyzed more profoundly. One of the sources we used was [Tzvetan Todorov's Structural Analysis of Narrative (requires access)](https://www.jstor.org/stable/1345003).
 
 [Ruth Ronen - Are Fictional Worlds Possible?](https://www.degruyter.com/document/doi/10.3138/9781487578442-004/html?lang=de) * Requires access
 
