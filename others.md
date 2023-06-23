@@ -40,11 +40,11 @@ Another way to look at culture we studied took us to a different realm: The unde
 
 Lotman's work proposes a very interesting way to look at culture in terms of <i>texts</i>, following their composition, location and movement across the different areas of culture. In fact, his work is essential for understanding some of the things we want to understand!
 
-In [On the Semiosphere](https://ojs.utlib.ee/index.php/sss/article/view/SSS.2005.33.1.09), Lotman 
-guides us through his theory of how culture--and what is meaningful within it--is systematically 
-organized, with some specific delimitations that we can use to understand the dynamics of 
+In [On the Semiosphere](https://ojs.utlib.ee/index.php/sss/article/view/SSS.2005.33.1.09), Lotman
+guides us through his theory of how culture--and what is meaningful within it--is systematically
+organized, with some specific delimitations that we can use to understand the dynamics of
 signification. The semiosphere, you may recall, is roughly divided in a <i>center</i>, a <i>periphery</i>, a <i>boundary</i> and the extra-semiotic space beyond the organization of culture.
-The <b>center</b> is the least dynamic, most established area of culture, where we find the canonical expressions of language, behavior, the arts, and so on. The further away we get from the center, the more we enter the <b>periphery</b> a place where cultural expressions all start changing, becoming less and less like what lies at the center depending on how far away we are from it. Think of rural dialects, artistic expressions that border in vandalism, etc. What contains the semiosphere is its <b>boundary</b>.
+The <b>center</b> is the least dynamic, most established area of culture, where we find the canonical expressions of language, behavior, the arts, and so on. The further away we get from the center, the more we enter the <b>periphery</b> a place where cultural expressions all start changing, becoming less and less like what lies at the center depending on how far away we are from it. Think of rural dialects, artistic expressions that border in vandalism, etc. What contains the semiosphere is its <b>boundary</b>. The boundary makes
 
 You can see Lotman talk more about culture in his own style here:
 
