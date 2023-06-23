@@ -54,11 +54,17 @@ Lotman, as the pivotal figure in the so-called Tartu Moscow School of Semiotics,
 Another concept we have to keep in mind is that of a <i>text</i>, also in the vein of Lotmanian 
 semiotics. Texts are <i>units of analysis</i> that appear in our theories. We study texts as combinations of signs. Texts are a way to describe cultural objects in general. We don't need to think of texts as <i>written texts</i>, but rather, as a useful shorthand to describe signifying elements in culture. The thought process is: Things that have meaning, present that meaning through signs. Things that are meaningful are composed of multiple signs.
 
+In other words, this part of the methodology allows us to look at different kinds of cultural objects looking for their meaningful aspects, irrespective of what the object is made to be like. We can look at literature, visual art, ways of speaking, and so on. In fact, take a look at the following piece:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1-HJxdTbaRM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Looking at the work of art depicted here, what we have is, indeed, <i>a text</i>.
+
 
 [Algirdas Greimas's Wikipedia page](https://en.wikipedia.org/wiki/Algirdas_Julien_Greimas)
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1-HJxdTbaRM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 [Louis Hébert - The Semiotic Square](http://www.signosemio.com/greimas/semiotic-square.asp)
 
